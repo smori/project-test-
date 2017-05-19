@@ -1,3 +1,0 @@
-1. A test gets my project on GitHub!
-
-2. Edit and remove this commit!
