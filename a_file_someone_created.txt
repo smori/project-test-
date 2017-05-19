@@ -1,0 +1,4 @@
+A file aploaded by someone.
+[Desktop->GitHub.com(project)->pull from GitHub Desktop]
+
+Make sure it can be pulled and show in a loca repository.
