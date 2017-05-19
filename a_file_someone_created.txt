@@ -2,3 +2,7 @@ A file aploaded by someone.
 [Desktop->GitHub.com(project)->pull from GitHub Desktop]
 
 Make sure it can be pulled and show it in a local repository.
+
+
+diff check
+$git diff [commit-id1][commit-id2]
